@@ -155,7 +155,6 @@ python configuration_recommendation.py
 - Python (scikit-learn, XGBoost, GPy)  
 - PostgreSQL (simulated workloads)  
 - Jupyter Notebooks / Scripts  
-- Optional: Cloud compute resources for optimization
 
 ## Author
 
